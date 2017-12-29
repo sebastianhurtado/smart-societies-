@@ -1,1 +1,1 @@
-# smart-societies-
+# smart-societies
